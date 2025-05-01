@@ -1,1 +1,1 @@
-# Pick-game-MiniProject
+# Pick-game-Mini Project
